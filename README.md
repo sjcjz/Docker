@@ -4,7 +4,7 @@
 * link
 [google.com](google.com)
 * image
-![i](http://finfra.com/f/f/f.png)
+![i](http://finfra.com/f/f.png)
 ## Table
 |id|name|
 |--|-------|
